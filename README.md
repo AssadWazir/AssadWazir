@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/assadwazir"><img src="https://img.shields.io/badge/LinkedIn-assadwazir-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.fiverr.com/sheen_khan"><img src="https://img.shields.io/badge/Fiverr-sheen__khan-1DBF73?style=flat&logo=fiverr&logoColor=white"/></a>
   <a href="mailto:assadkhan250@gmail.com"><img src="https://img.shields.io/badge/Email-assadkhan250@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -22,7 +21,7 @@ Successfully delivered numerous projects end-to-end on Fiverr — from requireme
 
 I'm also an **AI-Augmented Developer**, actively integrating tools like ChatGPT, Claude, and GitHub Copilot into my development workflow to ship faster and smarter. Currently expanding into **Project Management**, completing the Google Project Management Certificate (Agile, Scrum, Jira) on Coursera.
 
-- 🔭 Currently building: A smart Chrome extension for KSA job search automation
+- 🔭 Currently building: A smart Chrome extension for  job search automation
 - 🌱 Currently learning: Jira project management, Agile sprint planning, Google PM Certificate
 - 💬 Ask me about: PHP, Laravel, REST APIs, WordPress, AI-augmented development
 - 📫 Reach me at: assadkhan250@gmail.com
@@ -69,21 +68,21 @@ I'm also an **AI-Augmented Developer**, actively integrating tools like ChatGPT,
 ## 🚀 Featured Projects
 
 ### 🏢 Business-for-Sale Marketplace
-> PHP · Laravel · MVC · MySQL · Multi-role Authentication
+> PHP  · MySQL · Multi-role Authentication
 
 A full-stack marketplace application enabling the buying and selling of commercial businesses. Features a multi-role authentication system (Admin, Broker, Business Owner) with secure session management, advanced search and filter capabilities, and a complete listing management dashboard.
 
 ---
 
 ### 👩‍💼 Women Leaders Boards Platform
-> PHP · Laravel · MySQL · Session Management
+> PHP  · MySQL · Session Management
 
 A multi-role platform built for leadership boards, featuring personalised dashboards, profile completion workflows, and session-based access control. Improved user onboarding efficiency and enforced data security across all user roles.
 
 ---
 
 ### 📊 GDEIB HR Metrics Portal
-> PHP · CodeIgniter · MySQL · REST APIs
+> PHP  · MySQL · REST APIs
 
 A web portal for HR Metrics supporting the **Global Diversity, Equity & Inclusion Benchmarks (GDEIB) Award** — enabling organisations to track, submit, and benchmark their DEI performance data against global standards.
 
@@ -92,7 +91,7 @@ A web portal for HR Metrics supporting the **Global Diversity, Equity & Inclusio
 ### 📋 Village Secretary — Form Generator
 > PHP · Laravel · PDF Generation · Dynamic Conditional Logic
 
-An official government form generation system with dynamic conditional logic, printable PDF output, and an admin interface for managing application templates. Deployed for real-world government use.
+A civic digitisation solution built to solve a real community problem — manual, paper-based form processing that local government offices had never digitised.
 
 ---
 
