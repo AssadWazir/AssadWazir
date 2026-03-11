@@ -105,14 +105,12 @@ A fully-featured Chrome extension for KSA job search automation — sidebar matc
 
 ## 📜 Certifications
 
-| Certification | Issuer |
-|---|---|---|
-| Google Project Management Certificate (Agile · Scrum · Jira) | Coursera 
-| Postman API Fundamentals Student Expert | Postman 
-| Agile Scrum for Beginners | MindLuster 
-| DevOps Course Certification | Intellipaat 
-| PHP & MySQL | Udemy 
-| Soft Skills Training | PakSoftSkills 
+- **Google Project Management Certificate (Agile · Scrum · Jira)** — Coursera
+- **Postman API Fundamentals Student Expert** — Postman
+- **Agile Scrum for Beginners** — MindLuster
+- **DevOps Course Certification** — Intellipaat
+- **PHP & MySQL** — Udemy
+- **Soft Skills Training** — PakSoftSkills
 
 ---
 
