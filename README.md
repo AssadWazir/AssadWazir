@@ -152,18 +152,6 @@ Hazara University · HEC Verified · 2013–2017 · GPA: 3.3 / 4.0
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AssadWazir&show_icons=true&theme=github_dark&hide_border=true&title_color=1B6CA8&icon_color=1B6CA8" alt="Assad's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssadWazir&layout=compact&theme=github_dark&hide_border=true&title_color=1B6CA8" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <i>Open to Full Stack Developer, Junior Project Manager, and Technical roles in Saudi Arabia.</i><br/>
   <strong>Let's build something great — reach out anytime.</strong>
