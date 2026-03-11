@@ -18,7 +18,7 @@
 
 I'm a **Full Stack Web Developer** with **5+ years of professional experience** designing, building, and shipping scalable web applications, RESTful APIs, and custom CMS platforms for clients across multiple industries.
 
-Over 30+ projects delivered end-to-end on Fiverr — from requirements gathering and architecture design through to deployment and client handover. I manage the **complete project lifecycle** independently, which means I don't just write code — I own delivery.
+Successfully delivered numerous projects end-to-end on Fiverr — from requirements gathering and architecture design through to deployment and client handover. I manage the **complete project lifecycle** independently, which means I don't just write code — I own delivery.
 
 I'm also an **AI-Augmented Developer**, actively integrating tools like ChatGPT, Claude, and GitHub Copilot into my development workflow to ship faster and smarter. Currently expanding into **Project Management**, completing the Google Project Management Certificate (Agile, Scrum, Jira) on Coursera.
 
@@ -121,7 +121,7 @@ A fully-featured Chrome extension for KSA job search automation — sidebar matc
 **Freelance Full Stack PHP Developer** · Fiverr / Self-Employed
 `April 2019 – Present` · Remote, Saudi Arabia
 
-- Delivered **30+ web development projects** end-to-end for clients across multiple industries
+- Delivered **numerous web development projects** end-to-end for clients across multiple industries
 - Managed the complete project lifecycle — requirements, architecture, development, testing, deployment
 - Integrated RESTful APIs and third-party services, reducing client manual processing time by **40%**
 - Engineered custom dashboards, CMS modules, and role-based authentication systems
