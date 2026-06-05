@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Web Developer** with **5+ years of professional experience** designing, building, and shipping scalable web applications, RESTful APIs, and custom CMS platforms for clients across multiple industries.
+I'm a **Full Stack Web Developer** with **7+ years of professional experience** designing, building, and shipping scalable web applications, RESTful APIs, and custom CMS platforms for clients across multiple industries.
 
 Successfully delivered numerous projects end-to-end on Fiverr — from requirements gathering and architecture design through to deployment and client handover. I manage the **complete project lifecycle** independently, which means I don't just write code — I own delivery.
 
