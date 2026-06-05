@@ -150,6 +150,6 @@ Hazara University · HEC Verified · 2013–2017 · GPA: 3.3 / 4.0
 ---
 
 <p align="center">
-  <i>Open to Full Stack Developer, Junior Project Manager, and Technical roles in Saudi Arabia.</i><br/>
+  <i>Open to Full Stack Developer,  Project Manager, and Technical roles in Saudi Arabia.</i><br/>
   <strong>Let's build something great — reach out anytime.</strong>
 </p>
