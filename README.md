@@ -21,11 +21,11 @@ Successfully delivered numerous projects end-to-end on Fiverr — from requireme
 
 I'm also an **AI-Augmented Developer**, actively integrating tools like ChatGPT, Claude, and GitHub Copilot into my development workflow to ship faster and smarter. Currently expanding into **Project Management**, completing the Google Project Management Certificate (Agile, Scrum, Jira) on Coursera.
 
-- 🔭 Currently building: A smart Chrome extension for  job search automation
-- 🌱 Currently learning: Jira project management, Agile sprint planning, Google PM Certificate
+- 🔭 Currently building: **HEROMS** (Heavy Equipment & Resource Operations ERP system for GridFord)
+- 🌱 Currently learning: PowerBI for Data Analysis, Advanced DevOps workflows
 - 💬 Ask me about: PHP, Laravel, REST APIs, WordPress, AI-augmented development
 - 📫 Reach me at: assadkhan250@gmail.com
-- 🌍 Based in: Saudi Arabia — available immediately
+- 🌍 Based in: Jeddah, Saudi Arabia
 
 ---
 
@@ -67,6 +67,13 @@ I'm also an **AI-Augmented Developer**, actively integrating tools like ChatGPT,
 
 ## 🚀 Featured Projects
 
+### 🚜 HEROMS — Heavy Equipment & Resource Operations ERP
+> PHP · Laravel 11 · React.js (Inertia.js) · MySQL · Bootstrap 5 · CI/CD
+
+A custom, full-featured ERP system for GridFord to manage heavy equipment rental operations. Integrates HR & Payroll, Fleet Management, Client Invoicing, Petty Cash, and Double-Entry Accounting modules. Features role-based access control, machine assignments, fuel tracking, and automated workflows.
+
+---
+
 ### 🏢 Business-for-Sale Marketplace
 > PHP  · MySQL · Multi-role Authentication
 
@@ -104,6 +111,7 @@ A fully-featured Chrome extension for KSA job search automation — sidebar matc
 
 ## 📜 Certifications
 
+- **PowerBI for Data Analysis (Coursera Whiz labs)** — March 2026
 - **Google Project Management Certificate (Agile · Scrum · Jira)** — Coursera
 - **Postman API Fundamentals Student Expert** — Postman
 - **Agile Scrum for Beginners** — MindLuster
@@ -115,8 +123,22 @@ A fully-featured Chrome extension for KSA job search automation — sidebar matc
 
 ## 💼 Work Experience
 
+**Full Stack Web Developer** · GridFord / Full-time
+`March 2026 – Present` · Jeddah, Makkah, Saudi Arabia (On-site)
+
+- Led the end-to-end development of a custom ERP system (**HEROMS** - Heavy Equipment & Resource Operations Management System) to enhance heavy equipment rental operations
+- Designed and developed the ERP system using **Laravel 11**, **React.js (Inertia.js)**, **MySQL**, and **Bootstrap 5**
+- Built integrated modules for **HR & Payroll**, **Fleet Management**, **Client Invoicing**, **Petty Cash**, and **Accounting** in a single platform
+- Implemented **Role-Based Access Control (RBAC)** with multiple user roles and permissions
+- Developed a **double-entry accounting** system, including Chart of Accounts, General Ledger, Profit & Loss, and financial reporting features
+- Created machine assignment, fuel tracking, compliance expiry alerts, and project management workflows
+- Automated payroll processing, invoice generation, payment reconciliation, and audit trails
+- Deployed and maintained the application using **GitHub Actions CI/CD** and **cPanel hosting**
+- Streamlined operations across multiple departments, replacing manual spreadsheets with a centralized ERP solution
+- Managed full IT operations within the organization
+
 **Freelance Full Stack PHP Developer** · Fiverr / Self-Employed
-`April 2019 – Present` · Remote, Saudi Arabia
+`April 2019 – January 2026` · Remote, Saudi Arabia
 
 - Delivered **numerous web development projects** end-to-end for clients across multiple industries
 - Managed the complete project lifecycle — requirements, architecture, development, testing, deployment
